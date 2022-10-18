@@ -41,9 +41,9 @@ public class DescontoController {
 
         // Cria lista 5 Clientes
 
-        Cliente desconto5 = new Cliente(1, "", "Desconto 5%", 1);
+        Cliente desconto5 = new Cliente(1, "Helloysa", "Desconto 5%", 1);
         Cliente desconto7 = new Cliente(2, "Eduarda", "Desconto 7%", 2);
-        Cliente desconto10 = new Cliente(3, "Felipe", "Desconto 10%", 3);
+        Cliente desconto10 = new Cliente(3, "Marcela", "Desconto 10%", 3);
 
         // adicionando a uma lista
         list.add(desconto5);
